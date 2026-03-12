@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I'm Lei Tao
 
-<!--
-**Weaslypaper-coder/Weaslypaper-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Incoming MPhil Student** at **HKUST (Guangzhou)** — starting **September 2026**
 
-Here are some ideas to get you started:
+💻 **Software Engineering Background**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Interested in **Large Language Models and AI Systems**
+
+---
+
+## 👨‍💻 About Me
+
+I received my undergraduate training in **Software Engineering**, where my research primarily focused on **software testing** and **high-precision mutation testing data generation**.
+
+My previous work explored techniques for improving **test effectiveness** and **mutation analysis**, aiming to generate more precise mutation datasets for evaluating the quality of software testing.
+
+Starting in **September 2026**, I will pursue an **MPhil degree at HKUST (Guangzhou)**, where my research will focus on **Large Language Models (LLMs)** and their applications in intelligent systems.
+
+
+---
+
+## 🔬 Research Interests
+
+* **Large Language Models (LLMs)**
+
+* **Intelligent Autonomous Systems**
