@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Lei Tao
+# Hi there 👋 I'm Lei TAO
 
 🎓 **Incoming MPhil Student** at **HKUST (Guangzhou)** 
 
