@@ -1,8 +1,6 @@
 # Hi there 👋 I'm Lei Tao
 
-🎓 **Incoming MPhil Student** at **HKUST (Guangzhou)** — starting **September 2026**
-
-💻 **Software Engineering**
+🎓 **Incoming MPhil Student** at **HKUST (Guangzhou)** 
 
 🔬 Interested in **Large Language Models and AI Systems**
 
@@ -19,8 +17,3 @@ Starting in **September 2026**, I will pursue an **MPhil degree at HKUST (Guangz
 
 ---
 
-## 🔬 Research Interests
-
-* **Large Language Models (LLMs)**
-
-* **Intelligent Autonomous Systems**
